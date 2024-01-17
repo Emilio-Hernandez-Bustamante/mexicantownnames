@@ -1,25 +1,7 @@
 available: true
 id: 0
 mainset:
-- names:
-  - name: Distrito Federal
-    probability: 1
-  - name: Guadalajara
-    probability: 1
-  - name: Guanajuato
-    probability: 1
-  - name: Durango
-    probability: 1
-  - name: Toluca
-    probability: 1
-  - name: Ciudad Victoria
-    probability: 1
-  - name: Lerma
-    probability: 1
-  - name: Pachuca
-    probability: 1
-  - name: El Oro
-    probability: 1
+- names: []
 name: Mexican Town/City Names
 source: null
 subsets: []
